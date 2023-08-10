@@ -5,7 +5,7 @@ Understand the notions of:
   * Binding
   * Environments and Closures
 
-by creating an interpreted for a subset of Haskell.\
+by creating an interpreted for a subset of Haskell.
 
 ### Binary Operators
 
